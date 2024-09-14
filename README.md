@@ -6,7 +6,7 @@ Comandos para execução:
 npm install
 ```
 ```
-npx json-server --watch db.json
+npx json-server db.json
 ```
 ```
 nodemon server.js
